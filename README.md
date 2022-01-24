@@ -19,10 +19,10 @@ The Black Prince (Stirred | Coupe | Page 267):
 ```
 
 ### Get possible recipes given a bar:
-Given a `bar` (list of ingredients) find all posssible recipes. In this example the bar consists of `mezcal`, `lime`, `tequila`, `syrup`, and `lemon`.
+Given a `bar` (list of ingredients) find all posssible recipes. In this example the bar consists of `mezcal`, `lime`, `tequila`, and `syrup`.
 
 ```
-python death_and_co_recipe_finder.py --possible-recipes --ingredients mezcal lime tequila syrup lemon
+python death_and_co_recipe_finder.py --possible-recipes --ingredients mezcal lime tequila syrup
 ```
 Example output:
 ```
