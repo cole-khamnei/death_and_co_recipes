@@ -1,3 +1,6 @@
+[link to Death and Co Recipe Book!](https://www.deathandcompany.com/)
+
+
 # Death and Co. Recipe Finder
 ## How to use:
 
@@ -36,9 +39,6 @@ Zihuatanejo Julep (Stirred | Julep Tin | Page 244):
 ```
 
 # Death and Co. Recipe Analysis
-
-[link to Death and Co Recipe Book!](https://www.deathandcompany.com/)
-
 
 ![GitHub Logo](/plots/ingredient_occurences.png)
 
