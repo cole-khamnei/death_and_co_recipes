@@ -1,6 +1,11 @@
 # Death and Co. Recipe Finder
 ## How to use:
-`python death_and_co_recipe_finder.py --recipes-containing --ingredients rum amaro`
+
+To find a list of recipes that contain a list of ingredients (in this case `rum` and `amaro`):
+
+```
+python death_and_co_recipe_finder.py --recipes-containing --ingredients rum amaro
+```
 
 
 # Death and Co. Recipe Analysis
