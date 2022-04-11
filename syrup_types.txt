@@ -1,0 +1,159 @@
+SYRUP_TYPES = [
+	'Acacia Honey',
+	'Agave',
+	'Banana',
+	'Blueberry',
+	'Braeburn Apple',
+	'Cane Sugar',
+	'Cinnamon Bark',
+	'Cumin',
+	'Curried Ginger',
+	'Demerara',
+	'Espresso-Infused Demerara',
+	'Ginger',
+	'Grade B Maple',
+	'Hibiscus',
+	'Maple',
+	'Passion Fruit',
+	'Rich Simple',
+	'Scarlet Glow',
+	'Simple',
+	'Vanilla'
+]
+
+BITTER_TYPES = [
+	'Orange',
+	"Abbott's",
+	'Bar Code Baked Apple',
+	'Becherovka',
+	'Aromatic',
+	'Celery',
+	"Jerry Thomas'",
+	'Cherry Bark and Vanilla',
+	"'Elemakule Tiki",
+	'Hopped Grapefruit',
+	'Xocolatl Mole',
+	"Pimento",n
+	'Whiskey',
+	"Lavender"
+]
+
+
+MIX_TYPES = [
+	'Bergerac',
+	"Donn's",
+	'Pendennis',
+	'Zombie'
+]
+
+'Lemon Juice',
+'Lime Juice',
+'Orange Juice',
+
+'Lemon Curd',
+
+"Lime Cordial",
+'Sweet Vermouth (Cinnamon Orange Tea-Infused)',
+
+'Blood Orange Juice',
+'Santa Teresa Orange Liqueur',
+'Solerno Blood Orange Liqueur',
+'Orange Flower Water',
+'Orange Marmalade',
+'San Pellegrino Pompelmo Grapefruit Soda',
+'Punt E Mes (Grapefruit-Infused)',
+'Grapefruit Juice',
+
+'Apple Brandy',
+"Apple Brandy",
+'Vieux Cherry Brandy',
+
+'Guillon-Painturaud Cognac Grande Champagne VSOP',
+
+'Dry Champagne',
+
+'Alchemia Chocolate Vodka',
+'Charbay Vodka',
+
+MEZCAL_TYPES = []
+
+TEQUILA_TYPES = ["Blanco", "Reposado", "Anejo"]
+
+COGNAC_TYPES = []
+
+PISCO_TYPES = []
+
+GIN_TYPES = []
+
+AQUAVIT_TYPES = []
+
+RUM_TYPES = ["white", "dark"]
+
+
+WHISKEY_TYPES = []
+SCOTCH_TYPES = []
+BOURBON_TYPES = []
+RYE_TYPES = []
+
+ABSINTHE_TYPES = []
+
+ROSE_TYPE = []
+
+
+
+'Cream Sherry',
+'East India Solera Sherry',
+'Amontillado Sherry',
+'Manzanilla Sherry',
+'Oloroso Sherry',
+'Medium Sherry',
+
+
+'Bianco Vermouth',
+'Blanc Vermouth',
+'Rouge Vermouth',
+'Dry Vermouth',
+'Sweet Vermouth',
+
+
+"Apple Cider",
+"Pear Cider",
+
+'Blanche De Bruzelles Beer',
+'Negra Modelo Beer',
+
+
+'Rose Liqueur',
+'Dolin Geenepy Des Alpes Liqueur',
+'Coconut Liqueur',
+'Kummel Liqueur',
+'Maraschino Liqueur',
+'Napoléon Liqueur',
+'Apricot Liqueur',
+'Blackberry Liqueur',
+'Peach Liqueur',
+'Pear Liqueur',
+'Strawberry Liqueur',
+'Cherry Liqueur',
+"Suze Saveur D'Autrefois Liqueur",
+'Pine Liqueur',
+'Navarro Liqueur',
+
+'Amaro Averna',
+'Amaro Ciociaro',
+'Amaro Lucano',
+'Amaro Meletti',
+'Amaro Nardini',
+'Amaro Nonino',
+'Luxardo Amaro Abano',
+
+'Amaretto',
+
+'Campari',
+
+'Cointreau',
+
+'Curacao',
+
+'Green Chartreuse',
+'Yellow Chartreuse',
